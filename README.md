@@ -10,4 +10,4 @@ If you have anaconda and yupyter installed locally you can just clone the repory
 (In either case, don't forget to regularly pull and push changes).
 
 ### **How to use (as a reviewer):**
-If you are on Github now, open this notebook in Google Colab, or clone the whole repo locally, so you can run the cells. In case of running it in Colab, don't forget to save and download the resulting Excel sheet of the processed responses into a local folder.
+Clone the whole repo locally, or in Google Colab, so you can run the Noetbook cells. In case of running it in Colab, don't forget to save and download the resulting Excel sheet of the processed responses into a local folder.
