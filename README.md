@@ -1,5 +1,7 @@
 # student_selection_process_automation
 
+(*By: [@mahmoud-elmakki](https://github.com/mahmoud-elmakki)*)
+
 The purpose of this code is to automate the first trivial filtering steps in the processing of the applications for the TReND in Africa Computational Neuroscience and Machine Learning Basics course.
 
 This code is organized as a set of functions to be applied as a processing pipeline on the application responses data (See [documentation](https://docs.google.com/document/d/1n4pMEOgMuenuFpN6zXQtZlpYFXwPat2P4-SzZaN8mFg/edit?usp=drivesdk)).
