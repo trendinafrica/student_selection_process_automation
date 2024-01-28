@@ -1,5 +1,9 @@
 # student_selection_process_automation
 
+<a target="_blank" href="https://colab.research.google.com/github/trendinafrica/student_selection_process_automation/blob/main/main.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 (*By: [@mahmoud-elmakki](https://github.com/mahmoud-elmakki)*)
 
 The purpose of this code is to automate the first trivial filtering steps in the processing of the applications for the TReND in Africa Computational Neuroscience and Machine Learning Basics course.
